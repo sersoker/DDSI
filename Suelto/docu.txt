@@ -1,0 +1,54 @@
+Seminario 1.-
+
+Dudas:
+Sistema de informacion, ¿solo para entorno empresarial?
+TPS, ¿relacionado con tema bancario?
+DeadLock, ¿son comunes?, ¿como evitarlos?
+
+
+Notas:
+Busqueda de TPS, ha dado lugar a el tema de ACID, el conjunto de caracteristicas que tiene que tener una base de datos para considerarse transaccion, debe ser superados por los TPS para ser aptos.
+
+A partir de esto he encontrado mas informacion sobre los TPS, necesitan de transacciones completas y no permite que solo se realize una parte, si ocurre algun error se debe tener un estado anterior para restaurar. 
+Son propensos a deadlock,  bloqueo permanente de un conjunto de procesos o hilos que compiten por recursos de un sistema o se comunican entre ellos.
+
+Ejercicio: Como se puede apreciar el mundo de los Sistemas de Información está lleno de siglas. Vamos a introducir un par más. 
+Busca información sobre los siguientes términos: ERP, CRM 
+
+ERP: Sistemas de planificación de recursos empresariales('ERP, por sus siglas en inglés, enterprise resource planning)manejan la producción, logística, distribución, inventario, envíos, facturas y contabilidad de la compañía de forma modular. Uno que he usado Open ERP.
+
+CRM: CRM proviene de la sigla del término en inglés customer relationship management, hay dos tipos.-
+- Administración basada en la relación con los clientes. Es un modelo de gestión de toda la organización, basada en la satisfacción del cliente,tiene el fin de generar relaciones rentables con los clientes (marketing relacional)
+- Software para la administración de la relación con los clientes. Sistemas informáticos de apoyo a la gestión de las relaciones con los clientes, a la venta y al marketing. Un sistema que administra un data warehouse (almacén de datos) con la información de la gestión de ventas y de los clientes de la empresa.
+
+
+Ejercicio: Encuentra empresas que utilice/desarrollen software basado en SAP®.Describe alguna aplicación de éxito.
+Algunos ejemplos de empresas que usen SAP son: Repsol YPF, Siemens,BMW, Danone tambien la usaba pero acualmente se ha pasado a la version libre openERP
+
+
+Ejercicio: Selecciona uno de los módulos presentados para Oracle® E-Business Suite. Describe el módulo y sus conexiones con el resto de paquetes.
+Pues uno de los modulos es Oracle Cash Management, un sistema diseñado para controlar el dinero dentro de un sistema empresarial, acceso a movimientos de dinero, resumenes, etc. Se puede conectar con casi toda la familia de aplicaciones de E-Business Suite, ya que casi todas en un momento u otro necesitan de la gestion y organizacion monetaria, pero esta mas orientada a la familia de aplicaciones financieras como la de administracion financiera (Oracle Financial Management)
+
+Ejercicio: Busca información sobre aplicaciones reales que utilicen ABW.
+Unit4 ABW Campus, una utilidad basada en ABW que se centra en sitio de enseñanza, como universidades y centros de formacion, controla tantos los aspectos financieros como recursos humanos, facturacion, adminisiones, registros, etc. basicamente gestiona mas o menos todo lo necesario para un sistema de enseñanza mas privado que publico, pero adaptable en cualquier caso.
+
+Ejercicio: Enumere los módulos que ofrece la solución Microsoft® Dynamics.Describa las características de dichos módulos
+Compare los elementos encontrados con los Sistemas presentados anteriormente. Encuentre aplicaciones reales que utilice Microsoft® Dynamics.
+
+Microsoft® Dynamics se divide en CRM y ERP, cada uno con las funcionalidades propias asi como una integracion con productos de microsoft mas desarollada.-
+- ERP tiene varios modulos:
+	* Microsoft Dynamics AX - ERP para grandes empresas, centralizado y con funciones financieras y de recursos humanos.
+	* Microsoft Dynamics NAV - Sobre todo centrado en la cadena de suministros para pequeñas y medianas empresas ademas de algunos procesos empresariales mas normales.
+ - CRM se compone de un gran programa con funcionalidades de ventas, atencion al cliente y Marketing. 
+
+Algunas empresas que usan estos sistemas son Pandora o Nissan. 
+
+La diferencia principal que veo entre los sistemas anteriores y este es la modulabilidad, muy grande en los sitemas anteriores y algo mas deficiente en los de microsoft.
+
+
+
+
+
+
+
+

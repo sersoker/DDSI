@@ -1,0 +1,20 @@
+Tema 1.- 
+
+Se menciona VANs, las [value-added networks].- Metodo de transmision seguro utilizado en algunas aplicaciones y/o procesos. En España lo usa Hacienda. 
+
+DSSs
+ es un sistema informatico para la ayuda de toma de decisiones, dado unos parametros genera una serie de acciones o alternativas.
+
+KBSs
+ 	Sistema basado en conocimiento, tambien denominados expertos, en Inteligencia Artificial se mencionaron, pueden ser o no expertos, dependiendo de si se dedican a un dominio concreto. Se basan en el uso de heuristicas y datos para generar soluciones.
+
+Duda: Todos los sitemas se basan en entornos empresariales, ¿son aplicables en otros ambitos? 
+
+CBIS
+ sistemas que usan hardware y software para procesar y distribuir la informacion, un libro con mas informacion sobre el tema http://goo.gl/FP5ydE
+
+Sistemas OLTP,  Procesamiento de Transacciones En Línea (OnLine Transaction Processing) es un tipo de procesamiento que administra aplicaciones transaccionales, usualmente para entrada de datos y recuperación y procesamiento de transacciones. Los paquetes de software para OLTP se basan en la arquitectura cliente-servidor ya que suelen ser utilizados por empresas con una red informática distribuida.
+
+EIS
+, no conozco ninguno, buscando parece ser que no se tratan de sistemas aislados, si no sistemas que actuan en conjunto con otros como los de gestion de finanzas, clientes, etc. Normalmente denominados sistemas de mando integral.
+
